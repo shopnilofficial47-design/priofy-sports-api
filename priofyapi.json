@@ -1,1 +1,17 @@
+[
+  {
+    "league_name": "Testing GitHub API",
+    "team1": "Vercel",
+    "team2": "Priofy",
+    "matchDate": "12/10/2026",
+    "matchTime": "10:00 PM",
+    "enc": false,
+    "buttons": [
+      {
+        "name": "Server 1",
+        "url": "http://test.com/live.m3u8"
+      }
+    ]
+  }
+]
 
